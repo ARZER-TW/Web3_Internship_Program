@@ -45,6 +45,10 @@ EPERVIER:
 相同Gas成本：1.9M
 NIST標準兼容：使用SHAKE算法
 
+原版FALCON：標準化 - 為了NIST兼容性
+ETHFALCON：性能化 - 為了EVM極致性能
+EPERVIER：功能化 - 為了地址恢復創新
+
 # 2025-08-12
 
 1.參加了8/12的綜合項產品分析分享會
